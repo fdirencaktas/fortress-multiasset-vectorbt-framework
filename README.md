@@ -133,7 +133,7 @@ pip install -r requirements.txt
 ### **2️⃣ Run the backtester**
 
 ```
-python backtester.py
+python src/fortress-multiasset-vectorbt-framework.py
 ```
 
 ### **3️⃣ View results**
