@@ -144,5 +144,5 @@ python backtester.py
 **Fikri Direnç Aktaş**
 Quant Developer | Systematic Trader
 📧 **[Direncak2@gmail.com](mailto:Direncak2@gmail.com)**
-🌐 **[LinkedIn Profile](www.linkedin.com/in/direncaktas)**
+🌐 **[[LinkedIn Profile](https://www.linkedin.com/in/direncaktas/)]**
 
