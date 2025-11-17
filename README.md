@@ -74,9 +74,13 @@ Easily add:
 ## 🧠 Tech Stack
 
 **Core:** Python, NumPy, Pandas, VectorBT
+
 **Indicators:** pandas-ta
+
 **Data:** Yahoo Finance (yfinance)
+
 **Visualization:** Plotly (interactive HTML reports)
+
 **Focus Areas:** Multi-Asset Backtesting · Trend Models · Volatility Systems · Systematic Trading
 
 ---
